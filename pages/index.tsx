@@ -29,7 +29,6 @@ function Yosume() {
         <Experience.Component payload={Payload.experience} />
         <Project.Component payload={Payload.project} />
         <Education.Component payload={Payload.education} />
-        <Etc.Component payload={Payload.etc} />
         <Footer.Component payload={Payload.footer} />
       </Container>
     </>
